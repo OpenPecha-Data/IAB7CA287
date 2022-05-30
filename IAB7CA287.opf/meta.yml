@@ -1,0 +1,33 @@
+id: IAB7CA287
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:16:16.172551'
+last_modified: '2022-05-30T18:16:16.172563'
+parser: null
+source_metadata:
+  title: Adzom Drukpa Series
+  language: en
+  description: 'Texts by and about Adzom Drukpa Drodül Pawo Dorje (a ''dzoms ''brug
+    pa ''gro ''dul dpa'' bo rdo rje, 1842–1924):'
+  volume:
+    f7350:
+      title: 'The Hook of Blessing and Compassion: An Invocation Recalling Briefly
+        the Life and Liberation of the Drukchen Drodül Pawo Dorje, My Loving Supreme
+        Guru'
+      base_file: f7350.txt
+      order: 1
+      parent: Biography
+    fC20A:
+      title: 'The Ambrosia of Blessings: A Prayer to the Vidyādhara of Unparalleled
+        Kindness, Drodül Pawo Dorje'
+      base_file: fC20A.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
